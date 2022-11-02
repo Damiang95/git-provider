@@ -1,4 +1,4 @@
-module github.com/crossplane/provider-damyan
+module github.com/Damiang95/provider-damyan
 
 go 1.17
 
